@@ -1,0 +1,32 @@
+body{
+    
+    background-color:palevioletred;
+    font-family:arial,sans-serif;
+    
+}
+
+p{line-height: 150%;}
+
+h1{
+    font-size:60px;
+    color:#ffffff;
+    border:2px solid #fff;
+    padding:10px;
+}
+
+h2{
+    font-size:48px;
+    color:#8a0472;
+    background-color:#fff;
+    padding:10px;
+}
+
+h3{
+    font-size:36px;
+    color:papayawhip;
+}
+
+ol{padding:30px;}
+
+img{border:10px solid #fff;}
+
