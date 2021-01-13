@@ -10,8 +10,9 @@ a:visited{color:#5f2d05;}
 a:hover{color:#5f2d05; text-decoration:underline;}
 
 body{
-    font-family:arial,sans-serif;
+    font-family:'Gentium Book Basic', serif;
 }
+
 
 .container{
     width:1000px;
@@ -39,20 +40,25 @@ footer{
 }
 
 h1{
+    font-family:'Alfa Slab One', cursive;
     background-color:#af6d09;
     padding:50px;
     margin:0 0 20px 0;
     font-size:64px;
     color:#fff;
     text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 3px;
 }
 
 h2{
+    font-family:'Alfa Slab One', cursive;
     background-color:#edbf1b;
     padding:30px;
     color:#4b2f04;
     font-size:36px;
     margin-top:0;
+    letter-spacing: 3px;
 }
 
 p{
